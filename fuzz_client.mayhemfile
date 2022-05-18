@@ -1,0 +1,5 @@
+project: h2
+target: fuzz_client
+
+cmds:
+  - cmd: /fuzz_client

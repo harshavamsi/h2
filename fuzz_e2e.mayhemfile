@@ -1,0 +1,5 @@
+project: h2
+target: fuzz_e2e
+
+cmds:
+  - cmd: /fuzz_e2e

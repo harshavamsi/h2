@@ -1,0 +1,5 @@
+project: h2
+target: fuzz_hpack
+
+cmds:
+  - cmd: /fuzz_hpack
